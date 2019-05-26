@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [docker 常用命令](http://yonglun.shop/articles/2019/05/25/1558782631908.html)
 * [sequel-pro-1.1.2 在 mac 上崩溃问题解决](http://yonglun.shop/articles/2019/05/25/1558755640876.html)
 * [压力中前行](http://yonglun.shop/articles/2019/05/22/1558486707358.html)
 * [使用 idea 快速搭建 Spring Boot 项目](http://yonglun.shop/articles/2019/05/12/1557668671594.html)
@@ -26,7 +27,6 @@
 * [Base64 处理图片的局限性](http://yonglun.shop/articles/2019/04/22/1555947124470.html)
 * [为什么用 Solo 做个人博客](http://yonglun.shop/articles/2019/04/22/1555894977649.html)
 * [本地远程连接 MySQL server](http://yonglun.shop/articles/2019/04/21/1555854232242.html)
-* [世界，你好！](http://yonglun.shop/hello-solo)
 * [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
 * [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
 * [知识的诅咒：为什么你觉得显而易见，而对方却无法理解](http://yonglun.shop/articles/2019/01/25/1558761206398.html)
@@ -34,8 +34,15 @@
 ### 热门
 
 * [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
-* [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
 * [在结束学生时代的这一年里](http://yonglun.shop/articles/2018/07/23/1558761223881.html)
+* [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
+* [夯实基础系列一：Java 基础总结](http://yonglun.shop/articles/2016/08/27/1558761209787.html)
+* [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
+* [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
+* [为什么我们难以改变？](http://yonglun.shop/articles/2019/01/13/1558761226462.html)
+* [05.构建块](http://yonglun.shop/articles/2016/04/29/1558761231806.html)
+* [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
+* [Spring管理的Bean的生命周期](http://yonglun.shop/articles/2016/05/28/1558761241276.html)
 * [TCP中三次握手与四次挥手](http://yonglun.shop/articles/2016/03/19/1558761195220.html)
 * [剑指Offer之十九--二叉树的镜像](http://yonglun.shop/articles/2016/03/27/1558761195710.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
@@ -46,6 +53,9 @@
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
 * [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
+
+### 热议
+
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
 * [剑指Offer之十七--合并两个排序的链表](http://yonglun.shop/articles/2016/03/27/1558761200709.html)
@@ -53,9 +63,6 @@
 * [剑指Offer之二十--顺时针打印矩阵](http://yonglun.shop/articles/2016/03/27/1558761201453.html)
 * [剑指Offer之二十一--包含min函数的栈](http://yonglun.shop/articles/2016/03/27/1558761201879.html)
 * [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
-
-### 热议
-
 * [格雷码实现](http://yonglun.shop/articles/2016/03/26/1558761202770.html)
 * [剑指Offer之十六--链表反转](http://yonglun.shop/articles/2016/03/27/1558761203190.html)
 * [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
@@ -69,13 +76,6 @@
 * [MySQL数据库三种常用存储引擎特性对比](http://yonglun.shop/articles/2016/03/19/1558761207515.html)
 * [事务隔离级别](http://yonglun.shop/articles/2016/03/19/1558761207899.html)
 * [夯实基础系列三：数据库知识总结](http://yonglun.shop/articles/2016/08/30/1558761208233.html)
-* [夯实基础系列四：Linux 知识总结](http://yonglun.shop/articles/2016/09/02/1558761208868.html)
-* [夯实基础系列二：网络知识总结](http://yonglun.shop/articles/2016/08/28/1558761209311.html)
-* [夯实基础系列一：Java 基础总结](http://yonglun.shop/articles/2016/08/27/1558761209787.html)
-* [集合包之List](http://yonglun.shop/articles/2016/05/13/1558761210175.html)
-* [JVM如何GC](http://yonglun.shop/articles/2016/03/19/1558761210767.html)
-* [Java分布式之性能调优](http://yonglun.shop/articles/2016/05/12/1558761211213.html)
-* [JVM的内存区域划分](http://yonglun.shop/articles/2016/03/19/1558761211734.html)
 
 ---
 
