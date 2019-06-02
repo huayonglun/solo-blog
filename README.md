@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [友链申请](http://yonglun.shop/articles/2019/06/02/1559451227591.html)
+* [优秀程序员的几个软技能](http://yonglun.shop/articles/2019/06/02/1559446233233.html)
 * [docker 常用命令](http://yonglun.shop/articles/2019/05/25/1558782631908.html)
 * [sequel-pro-1.1.2 在 mac 上崩溃问题解决](http://yonglun.shop/articles/2019/05/25/1558755640876.html)
 * [压力中前行](http://yonglun.shop/articles/2019/05/22/1558486707358.html)
@@ -28,11 +30,11 @@
 * [为什么用 Solo 做个人博客](http://yonglun.shop/articles/2019/04/22/1555894977649.html)
 * [本地远程连接 MySQL server](http://yonglun.shop/articles/2019/04/21/1555854232242.html)
 * [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
-* [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
-* [知识的诅咒：为什么你觉得显而易见，而对方却无法理解](http://yonglun.shop/articles/2019/01/25/1558761206398.html)
 
 ### 热门
 
+* [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
+* [知识的诅咒：为什么你觉得显而易见，而对方却无法理解](http://yonglun.shop/articles/2019/01/25/1558761206398.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
 * [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
 * [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
@@ -51,11 +53,11 @@
 * [01.介绍](http://yonglun.shop/articles/2016/04/24/1558761229576.html)
 * [05.构建块](http://yonglun.shop/articles/2016/04/29/1558761231806.html)
 * [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
-* [TCP中三次握手与四次挥手](http://yonglun.shop/articles/2016/03/19/1558761195220.html)
-* [剑指Offer之十九--二叉树的镜像](http://yonglun.shop/articles/2016/03/27/1558761195710.html)
 
 ### 热议
 
+* [TCP中三次握手与四次挥手](http://yonglun.shop/articles/2016/03/19/1558761195220.html)
+* [剑指Offer之十九--二叉树的镜像](http://yonglun.shop/articles/2016/03/27/1558761195710.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [剑指Offer之三十--最小的K个数](http://yonglun.shop/articles/2016/04/19/1558761196865.html)
 * [剑指Offer之十八--树的子结构](http://yonglun.shop/articles/2016/03/27/1558761197438.html)
@@ -74,8 +76,6 @@
 * [有理数四则运算](http://yonglun.shop/articles/2016/04/12/1558761204236.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
-* [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
-* [找出数组中重复最多的数](http://yonglun.shop/articles/2016/03/26/1558761206033.html)
 
 ---
 
