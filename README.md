@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [联调踩的坑：空和空字符串引发的巨大差异](http://yonglun.shop/articles/2019/06/04/1559581613913.html)
 * [友链申请](http://yonglun.shop/articles/2019/06/02/1559451227591.html)
 * [优秀程序员的几个软技能](http://yonglun.shop/articles/2019/06/02/1559446233233.html)
 * [docker 常用命令](http://yonglun.shop/articles/2019/05/25/1558782631908.html)
@@ -29,10 +30,10 @@
 * [Base64 处理图片的局限性](http://yonglun.shop/articles/2019/04/22/1555947124470.html)
 * [为什么用 Solo 做个人博客](http://yonglun.shop/articles/2019/04/22/1555894977649.html)
 * [本地远程连接 MySQL server](http://yonglun.shop/articles/2019/04/21/1555854232242.html)
-* [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
 
 ### 热门
 
+* [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
 * [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
 * [知识的诅咒：为什么你觉得显而易见，而对方却无法理解](http://yonglun.shop/articles/2019/01/25/1558761206398.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
@@ -52,7 +53,6 @@
 * [为什么我们难以改变？](http://yonglun.shop/articles/2019/01/13/1558761226462.html)
 * [01.介绍](http://yonglun.shop/articles/2016/04/24/1558761229576.html)
 * [05.构建块](http://yonglun.shop/articles/2016/04/29/1558761231806.html)
-* [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
 
 ### 热议
 
