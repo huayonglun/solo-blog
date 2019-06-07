@@ -1,4 +1,4 @@
-<p align="center"><img alt="螺旋蜗牛" src="https://ws1.sinaimg.cn/large/006tNc79gy1g2b3shas4bj30hs0npju5.jpg"></p><h2 align="center">
+<p align="center"><img alt="螺旋蜗牛" src="https://ws1.sinaimg.cn/large/006tNc79gy1g3rwlinrcgj30lt0jhgmt.jpg"></p><h2 align="center">
 螺旋蜗牛
 </h2>
 
