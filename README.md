@@ -46,13 +46,13 @@
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
 * [剑指Offer之二十六--复杂链表的复制](http://yonglun.shop/articles/2016/04/07/1558761203864.html)
+* [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
+* [事务隔离级别](http://yonglun.shop/articles/2016/03/19/1558761207899.html)
 * [夯实基础系列一：Java 基础总结](http://yonglun.shop/articles/2016/08/27/1558761209787.html)
+* [JVM类加载过程](http://yonglun.shop/articles/2016/03/19/1558761213736.html)
+* [Java安全之对称加密、非对称加密、数字签名](http://yonglun.shop/articles/2016/03/21/1558761215634.html)
 * [struts2中Action配置的各项默认值](http://yonglun.shop/articles/2016/03/31/1558761216144.html)
 * [struts2介绍](http://yonglun.shop/articles/2016/03/30/1558761216599.html)
-* [struts2中struts2的处理流程和对Action的管理方式](http://yonglun.shop/articles/2016/04/05/1558761216844.html)
-* [为什么我们难以改变？](http://yonglun.shop/articles/2019/01/13/1558761226462.html)
-* [01.介绍](http://yonglun.shop/articles/2016/04/24/1558761229576.html)
-* [05.构建块](http://yonglun.shop/articles/2016/04/29/1558761231806.html)
 
 ### 热议
 
@@ -75,7 +75,7 @@
 * [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
 * [有理数四则运算](http://yonglun.shop/articles/2016/04/12/1558761204236.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
-* [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
+* [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
 
 ---
 
