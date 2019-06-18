@@ -36,23 +36,23 @@
 * [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
 * [知识的诅咒：为什么你觉得显而易见，而对方却无法理解](http://yonglun.shop/articles/2019/01/25/1558761206398.html)
 * [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
+* [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
-* [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
 * [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
 * [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
 * [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
+* [剑指Offer之二十二--栈的压入、弹出序列](http://yonglun.shop/articles/2016/04/01/1558761201145.html)
 * [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
 * [事务隔离级别](http://yonglun.shop/articles/2016/03/19/1558761207899.html)
 * [夯实基础系列一：Java 基础总结](http://yonglun.shop/articles/2016/08/27/1558761209787.html)
 * [HashMap实现原理](http://yonglun.shop/articles/2016/03/19/1558761212871.html)
 * [并发包之 CopyOnWriteArrayList](http://yonglun.shop/articles/2016/07/29/1558761214389.html)
+* [struts2中动态方法调用和使用通配符定义action](http://yonglun.shop/articles/2016/04/07/1558761218946.html)
 * [struts2中请求参数接收](http://yonglun.shop/articles/2016/05/27/1558761219713.html)
 * [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
 * [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
 * [双十一是线上的剁手，双十二是线下的狂欢](http://yonglun.shop/articles/2018/12/13/1558761223533.html)
-* [在结束学生时代的这一年里](http://yonglun.shop/articles/2018/07/23/1558761223881.html)
-* [15.原子变量与非阻塞同步机制](http://yonglun.shop/articles/2016/05/10/1558761233723.html)
 
 ### 热议
 
@@ -67,7 +67,6 @@
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
 * [剑指Offer之十七--合并两个排序的链表](http://yonglun.shop/articles/2016/03/27/1558761200709.html)
-* [剑指Offer之二十二--栈的压入、弹出序列](http://yonglun.shop/articles/2016/04/01/1558761201145.html)
 * [剑指Offer之二十--顺时针打印矩阵](http://yonglun.shop/articles/2016/03/27/1558761201453.html)
 * [剑指Offer之二十一--包含min函数的栈](http://yonglun.shop/articles/2016/03/27/1558761201879.html)
 * [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
@@ -76,6 +75,7 @@
 * [剑指Offer之二十六--复杂链表的复制](http://yonglun.shop/articles/2016/04/07/1558761203864.html)
 * [有理数四则运算](http://yonglun.shop/articles/2016/04/12/1558761204236.html)
 * [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
+* [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
 
 ---
 
