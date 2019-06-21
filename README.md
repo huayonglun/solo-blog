@@ -43,6 +43,7 @@
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
 * [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
+* [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
@@ -51,8 +52,7 @@
 * [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
 * [事务隔离级别](http://yonglun.shop/articles/2016/03/19/1558761207899.html)
 * [夯实基础系列一：Java 基础总结](http://yonglun.shop/articles/2016/08/27/1558761209787.html)
-* [HashMap实现原理](http://yonglun.shop/articles/2016/03/19/1558761212871.html)
-* [并发包之 CopyOnWriteArrayList](http://yonglun.shop/articles/2016/07/29/1558761214389.html)
+* [JVM如何GC](http://yonglun.shop/articles/2016/03/19/1558761210767.html)
 
 ### 热议
 
@@ -60,7 +60,6 @@
 * [剑指Offer之十九--二叉树的镜像](http://yonglun.shop/articles/2016/03/27/1558761195710.html)
 * [剑指Offer之三十--最小的K个数](http://yonglun.shop/articles/2016/04/19/1558761196865.html)
 * [剑指Offer之十八--树的子结构](http://yonglun.shop/articles/2016/03/27/1558761197438.html)
-* [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
@@ -76,6 +75,7 @@
 * [找出数组中重复最多的数](http://yonglun.shop/articles/2016/03/26/1558761206033.html)
 * [闭环思维，让你更加优秀的诀窍](http://yonglun.shop/articles/2018/09/10/1558761207039.html)
 * [MySQL数据库三种常用存储引擎特性对比](http://yonglun.shop/articles/2016/03/19/1558761207515.html)
+* [夯实基础系列三：数据库知识总结](http://yonglun.shop/articles/2016/08/30/1558761208233.html)
 
 ---
 
