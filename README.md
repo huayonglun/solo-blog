@@ -5,11 +5,13 @@
 <h4 align="center">我要一步一步往上爬，在最高点乘着叶片往前飞</h4>
 <p align="center"><a title="螺旋蜗牛" target="_blank" href="https://github.com/huayonglun/solo-blog"><img src="https://img.shields.io/github/last-commit/huayonglun/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/huayonglun/solo-blog"><img src="https://img.shields.io/github/repo-size/huayonglun/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/huayonglun/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://yonglun.shop/my-github-repos)
+* [不做积极的废人](http://yonglun.shop/articles/2019/06/29/1561740873791.html)
 * [联调踩的坑：空和空字符串引发的巨大差异](http://yonglun.shop/articles/2019/06/04/1559581613913.html)
 * [友链申请](http://yonglun.shop/articles/2019/06/02/1559451227591.html)
 * [优秀程序员的几个软技能](http://yonglun.shop/articles/2019/06/02/1559446233233.html)
@@ -28,12 +30,12 @@
 * [蔡康永情商课笔记一：情绪表达](http://yonglun.shop/articles/2019/04/24/1556068924633.html)
 * [2.4 成本的深义：交易费用](http://yonglun.shop/articles/2019/04/23/1555981477258.html)
 * [Base64 处理图片的局限性](http://yonglun.shop/articles/2019/04/22/1555947124470.html)
-* [为什么用 Solo 做个人博客](http://yonglun.shop/articles/2019/04/22/1555894977649.html)
-* [本地远程连接 MySQL server](http://yonglun.shop/articles/2019/04/21/1555854232242.html)
 
 ### 热门
 
 * [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
+* [本地远程连接 MySQL server](http://yonglun.shop/articles/2019/04/21/1555854232242.html)
+* [为什么用 Solo 做个人博客](http://yonglun.shop/articles/2019/04/22/1555894977649.html)
 * [知识的诅咒：为什么你觉得显而易见，而对方却无法理解](http://yonglun.shop/articles/2019/01/25/1558761206398.html)
 * [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
@@ -51,8 +53,6 @@
 * [剑指Offer之二十二--栈的压入、弹出序列](http://yonglun.shop/articles/2016/04/01/1558761201145.html)
 * [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
 * [格雷码实现](http://yonglun.shop/articles/2016/03/26/1558761202770.html)
-* [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
-* [剑指Offer之二十六--复杂链表的复制](http://yonglun.shop/articles/2016/04/07/1558761203864.html)
 
 ### 热议
 
@@ -67,6 +67,8 @@
 * [剑指Offer之二十--顺时针打印矩阵](http://yonglun.shop/articles/2016/03/27/1558761201453.html)
 * [剑指Offer之二十一--包含min函数的栈](http://yonglun.shop/articles/2016/03/27/1558761201879.html)
 * [剑指Offer之十六--链表反转](http://yonglun.shop/articles/2016/03/27/1558761203190.html)
+* [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
+* [剑指Offer之二十六--复杂链表的复制](http://yonglun.shop/articles/2016/04/07/1558761203864.html)
 * [有理数四则运算](http://yonglun.shop/articles/2016/04/12/1558761204236.html)
 * [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
 * [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
@@ -74,8 +76,6 @@
 * [闭环思维，让你更加优秀的诀窍](http://yonglun.shop/articles/2018/09/10/1558761207039.html)
 * [MySQL数据库三种常用存储引擎特性对比](http://yonglun.shop/articles/2016/03/19/1558761207515.html)
 * [事务隔离级别](http://yonglun.shop/articles/2016/03/19/1558761207899.html)
-* [夯实基础系列三：数据库知识总结](http://yonglun.shop/articles/2016/08/30/1558761208233.html)
-* [夯实基础系列四：Linux 知识总结](http://yonglun.shop/articles/2016/09/02/1558761208868.html)
 
 ---
 
