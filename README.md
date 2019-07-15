@@ -51,8 +51,8 @@
 * [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
 * [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
+* [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [剑指Offer之二十二--栈的压入、弹出序列](http://yonglun.shop/articles/2016/04/01/1558761201145.html)
-* [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
 
 ### 热议
 
@@ -61,11 +61,11 @@
 * [剑指Offer之三十--最小的K个数](http://yonglun.shop/articles/2016/04/19/1558761196865.html)
 * [剑指Offer之十八--树的子结构](http://yonglun.shop/articles/2016/03/27/1558761197438.html)
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
-* [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
 * [剑指Offer之十七--合并两个排序的链表](http://yonglun.shop/articles/2016/03/27/1558761200709.html)
 * [剑指Offer之二十--顺时针打印矩阵](http://yonglun.shop/articles/2016/03/27/1558761201453.html)
 * [剑指Offer之二十一--包含min函数的栈](http://yonglun.shop/articles/2016/03/27/1558761201879.html)
+* [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
 * [格雷码实现](http://yonglun.shop/articles/2016/03/26/1558761202770.html)
 * [剑指Offer之十六--链表反转](http://yonglun.shop/articles/2016/03/27/1558761203190.html)
 * [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
