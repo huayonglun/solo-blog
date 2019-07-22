@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我为什么要写反思录](http://yonglun.shop/articles/2019/07/21/1563701917670.html)
 * [今日思考：捡重要的事情做](http://yonglun.shop/articles/2019/07/19/1563470813740.html)
 * [我在 GitHub 上的开源项目](http://yonglun.shop/my-github-repos)
 * [不做积极的废人](http://yonglun.shop/articles/2019/06/29/1561740873791.html)
@@ -29,7 +30,6 @@
 * [完成任务还是解决问题？](http://yonglun.shop/articles/2019/04/26/1556211985518.html)
 * [TensorFlow 学习笔记一：初印象](http://yonglun.shop/articles/2019/04/25/1556155362539.html)
 * [蔡康永情商课笔记一：情绪表达](http://yonglun.shop/articles/2019/04/24/1556068924633.html)
-* [2.4 成本的深义：交易费用](http://yonglun.shop/articles/2019/04/23/1555981477258.html)
 
 ### 热门
 
@@ -39,20 +39,20 @@
 * [Base64 处理图片的局限性](http://yonglun.shop/articles/2019/04/22/1555947124470.html)
 * [知识的诅咒：为什么你觉得显而易见，而对方却无法理解](http://yonglun.shop/articles/2019/01/25/1558761206398.html)
 * [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
+* [2.4 成本的深义：交易费用](http://yonglun.shop/articles/2019/04/23/1555981477258.html)
 * [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
+* [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
-* [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [并发包之 CopyOnWriteArrayList](http://yonglun.shop/articles/2016/07/29/1558761214389.html)
 * [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
 * [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
 * [在结束学生时代的这一年里](http://yonglun.shop/articles/2018/07/23/1558761223881.html)
 * [为什么我们难以改变？](http://yonglun.shop/articles/2019/01/13/1558761226462.html)
 * [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
-* [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
 
 ### 热议
 
