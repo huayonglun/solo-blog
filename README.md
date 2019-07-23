@@ -43,6 +43,7 @@
 * [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
+* [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
@@ -52,7 +53,6 @@
 * [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
 * [在结束学生时代的这一年里](http://yonglun.shop/articles/2018/07/23/1558761223881.html)
 * [为什么我们难以改变？](http://yonglun.shop/articles/2019/01/13/1558761226462.html)
-* [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 
 ### 热议
 
