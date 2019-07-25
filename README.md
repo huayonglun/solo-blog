@@ -51,8 +51,8 @@
 * [并发包之 CopyOnWriteArrayList](http://yonglun.shop/articles/2016/07/29/1558761214389.html)
 * [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
 * [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
+* [双十一是线上的剁手，双十二是线下的狂欢](http://yonglun.shop/articles/2018/12/13/1558761223533.html)
 * [在结束学生时代的这一年里](http://yonglun.shop/articles/2018/07/23/1558761223881.html)
-* [为什么我们难以改变？](http://yonglun.shop/articles/2019/01/13/1558761226462.html)
 
 ### 热议
 
