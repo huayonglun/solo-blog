@@ -48,11 +48,11 @@
 * [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 * [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
 * [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
+* [【Spring 系列】二、spring三种实例化bean的方式](http://yonglun.shop/articles/2016/05/27/1558761240249.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
-* [剑指Offer之二十二--栈的压入、弹出序列](http://yonglun.shop/articles/2016/04/01/1558761201145.html)
 
 ### 热议
 
@@ -64,6 +64,7 @@
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
 * [剑指Offer之十七--合并两个排序的链表](http://yonglun.shop/articles/2016/03/27/1558761200709.html)
+* [剑指Offer之二十二--栈的压入、弹出序列](http://yonglun.shop/articles/2016/04/01/1558761201145.html)
 * [剑指Offer之二十--顺时针打印矩阵](http://yonglun.shop/articles/2016/03/27/1558761201453.html)
 * [剑指Offer之二十一--包含min函数的栈](http://yonglun.shop/articles/2016/03/27/1558761201879.html)
 * [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
@@ -75,7 +76,6 @@
 * [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
 * [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
 * [找出数组中重复最多的数](http://yonglun.shop/articles/2016/03/26/1558761206033.html)
-* [闭环思维，让你更加优秀的诀窍](http://yonglun.shop/articles/2018/09/10/1558761207039.html)
 
 ---
 
