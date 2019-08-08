@@ -50,9 +50,9 @@
 * [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
 * [【Spring 系列】二、spring三种实例化bean的方式](http://yonglun.shop/articles/2016/05/27/1558761240249.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
+* [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
-* [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 
 ### 热议
 
@@ -60,8 +60,8 @@
 * [剑指Offer之十九--二叉树的镜像](http://yonglun.shop/articles/2016/03/27/1558761195710.html)
 * [剑指Offer之三十--最小的K个数](http://yonglun.shop/articles/2016/04/19/1558761196865.html)
 * [剑指Offer之十八--树的子结构](http://yonglun.shop/articles/2016/03/27/1558761197438.html)
-* [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
+* [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
 * [剑指Offer之十七--合并两个排序的链表](http://yonglun.shop/articles/2016/03/27/1558761200709.html)
 * [剑指Offer之二十二--栈的压入、弹出序列](http://yonglun.shop/articles/2016/04/01/1558761201145.html)
