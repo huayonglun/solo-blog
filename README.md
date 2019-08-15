@@ -43,23 +43,24 @@
 * [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
+* [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
+* [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
+* [并发包之 CopyOnWriteArrayList](http://yonglun.shop/articles/2016/07/29/1558761214389.html)
 * [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
-* [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 * [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
 * [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
 * [【Spring 系列】二、spring三种实例化bean的方式](http://yonglun.shop/articles/2016/05/27/1558761240249.html)
-* [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
-* [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
-* [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
+* [剑指Offer之三十--最小的K个数](http://yonglun.shop/articles/2016/04/19/1558761196865.html)
 
 ### 热议
 
 * [TCP中三次握手与四次挥手](http://yonglun.shop/articles/2016/03/19/1558761195220.html)
 * [剑指Offer之十九--二叉树的镜像](http://yonglun.shop/articles/2016/03/27/1558761195710.html)
-* [剑指Offer之三十--最小的K个数](http://yonglun.shop/articles/2016/04/19/1558761196865.html)
 * [剑指Offer之十八--树的子结构](http://yonglun.shop/articles/2016/03/27/1558761197438.html)
+* [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
+* [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
@@ -75,7 +76,6 @@
 * [有理数四则运算](http://yonglun.shop/articles/2016/04/12/1558761204236.html)
 * [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
 * [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
-* [找出数组中重复最多的数](http://yonglun.shop/articles/2016/03/26/1558761206033.html)
 
 ---
 
