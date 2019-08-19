@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [5G 与 IoT（一）](http://yonglun.shop/articles/2019/08/18/1566107310606.html)
 * [我为什么要写反思录](http://yonglun.shop/articles/2019/07/21/1563701917670.html)
 * [今日思考：捡重要的事情做](http://yonglun.shop/articles/2019/07/19/1563470813740.html)
 * [我在 GitHub 上的开源项目](http://yonglun.shop/my-github-repos)
@@ -29,11 +30,11 @@
 * [产品学习笔记一：产品的诞生](http://yonglun.shop/articles/2019/04/26/1556243316916.html)
 * [完成任务还是解决问题？](http://yonglun.shop/articles/2019/04/26/1556211985518.html)
 * [TensorFlow 学习笔记一：初印象](http://yonglun.shop/articles/2019/04/25/1556155362539.html)
-* [蔡康永情商课笔记一：情绪表达](http://yonglun.shop/articles/2019/04/24/1556068924633.html)
 
 ### 热门
 
 * [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
+* [蔡康永情商课笔记一：情绪表达](http://yonglun.shop/articles/2019/04/24/1556068924633.html)
 * [本地远程连接 MySQL server](http://yonglun.shop/articles/2019/04/21/1555854232242.html)
 * [为什么用 Solo 做个人博客](http://yonglun.shop/articles/2019/04/22/1555894977649.html)
 * [Base64 处理图片的局限性](http://yonglun.shop/articles/2019/04/22/1555947124470.html)
@@ -42,17 +43,16 @@
 * [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
 * [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
+* [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
 * [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 * [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
-* [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
+* [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [并发包之 CopyOnWriteArrayList](http://yonglun.shop/articles/2016/07/29/1558761214389.html)
 * [struts2中struts2的处理流程和对Action的管理方式](http://yonglun.shop/articles/2016/04/05/1558761216844.html)
 * [struts2中动态方法调用和使用通配符定义action](http://yonglun.shop/articles/2016/04/07/1558761218946.html)
-* [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
-* [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
 
 ### 热议
 
@@ -62,7 +62,6 @@
 * [剑指Offer之十八--树的子结构](http://yonglun.shop/articles/2016/03/27/1558761197438.html)
 * [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
-* [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
 * [剑指Offer之二十九--数组中出现次数超过一半的数字](http://yonglun.shop/articles/2016/04/18/1558761200109.html)
 * [八大排序算法Java实现](http://yonglun.shop/articles/2016/03/26/1558761200436.html)
 * [剑指Offer之十七--合并两个排序的链表](http://yonglun.shop/articles/2016/03/27/1558761200709.html)
@@ -76,6 +75,7 @@
 * [剑指Offer之二十六--复杂链表的复制](http://yonglun.shop/articles/2016/04/07/1558761203864.html)
 * [有理数四则运算](http://yonglun.shop/articles/2016/04/12/1558761204236.html)
 * [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
+* [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
 
 ---
 
