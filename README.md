@@ -45,14 +45,14 @@
 * [镰仓物语 | 亲近的人即便离开人间，它也在你的身边](http://yonglun.shop/articles/2018/09/23/1558761226820.html)
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
+* [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
+* [双十一是线上的剁手，双十二是线下的狂欢](http://yonglun.shop/articles/2018/12/13/1558761223533.html)
 * [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 * [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
 * [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
-* [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
-* [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
-* [夯实基础系列二：网络知识总结](http://yonglun.shop/articles/2016/08/28/1558761209311.html)
+* [Spring管理的Bean的生命周期](http://yonglun.shop/articles/2016/05/28/1558761241276.html)
 
 ### 热议
 
@@ -71,11 +71,11 @@
 * [数字黑洞](http://yonglun.shop/articles/2016/03/30/1558761202249.html)
 * [格雷码实现](http://yonglun.shop/articles/2016/03/26/1558761202770.html)
 * [剑指Offer之十六--链表反转](http://yonglun.shop/articles/2016/03/27/1558761203190.html)
+* [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
 * [剑指Offer之二十六--复杂链表的复制](http://yonglun.shop/articles/2016/04/07/1558761203864.html)
 * [有理数四则运算](http://yonglun.shop/articles/2016/04/12/1558761204236.html)
 * [排序算法稳定性](http://yonglun.shop/articles/2016/03/19/1558761205303.html)
 * [科学计数法](http://yonglun.shop/articles/2016/04/06/1558761205709.html)
-* [找出数组中重复最多的数](http://yonglun.shop/articles/2016/03/26/1558761206033.html)
 
 ---
 
