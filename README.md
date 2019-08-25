@@ -51,8 +51,8 @@
 * [双十一是线上的剁手，双十二是线下的狂欢](http://yonglun.shop/articles/2018/12/13/1558761223533.html)
 * [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 * [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
-* [让Spring自动扫描和管理Bean](http://yonglun.shop/articles/2016/06/02/1558761239453.html)
-* [Spring管理的Bean的生命周期](http://yonglun.shop/articles/2016/05/28/1558761241276.html)
+* [使用Spring的注解方式实现AOP的细节](http://yonglun.shop/articles/2016/06/06/1558761236225.html)
+* [使用Spring注解方式管理事务与传播行为详解](http://yonglun.shop/articles/2016/06/10/1558761238107.html)
 
 ### 热议
 
