@@ -49,10 +49,10 @@
 * [剑指Offer之十四--调整数组顺序使奇数位于偶数前面](http://yonglun.shop/articles/2016/03/27/1558761199729.html)
 * [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
 * [夯实基础系列二：网络知识总结](http://yonglun.shop/articles/2016/08/28/1558761209311.html)
+* [linux系统进程间通信的方式](http://yonglun.shop/articles/2016/03/19/1558761221471.html)
 * [双十一是线上的剁手，双十二是线下的狂欢](http://yonglun.shop/articles/2018/12/13/1558761223533.html)
 * [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 * [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
-* [使用Spring的注解方式实现AOP的细节](http://yonglun.shop/articles/2016/06/06/1558761236225.html)
 
 ### 热议
 
