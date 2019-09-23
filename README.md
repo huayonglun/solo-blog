@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [偶尔写写诗，让生活多点灵性](http://yonglun.shop/articles/2019/09/22/1569145767486.html)
 * [爱与思念](http://yonglun.shop/articles/2019/09/21/1569073559797.html)
 * [5G 与 IoT（一）](http://yonglun.shop/articles/2019/08/18/1566107310606.html)
 * [我为什么要写反思录](http://yonglun.shop/articles/2019/07/21/1563701917670.html)
@@ -29,12 +30,12 @@
 * [蔡康永情商课笔记三：负面情绪](http://yonglun.shop/articles/2019/04/27/1556346293978.html)
 * [蔡康永情商课笔记二：自我和解](http://yonglun.shop/articles/2019/04/27/1556331162260.html)
 * [产品学习笔记一：产品的诞生](http://yonglun.shop/articles/2019/04/26/1556243316916.html)
-* [完成任务还是解决问题？](http://yonglun.shop/articles/2019/04/26/1556211985518.html)
 
 ### 热门
 
 * [TensorFlow 学习笔记一：初印象](http://yonglun.shop/articles/2019/04/25/1556155362539.html)
 * [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
+* [完成任务还是解决问题？](http://yonglun.shop/articles/2019/04/26/1556211985518.html)
 * [蔡康永情商课笔记一：情绪表达](http://yonglun.shop/articles/2019/04/24/1556068924633.html)
 * [像少年啦飞驰：寻找所热爱的一切](http://yonglun.shop/articles/2019/02/08/1558761226053.html)
 * [Base64 处理图片的局限性](http://yonglun.shop/articles/2019/04/22/1555947124470.html)
@@ -47,12 +48,11 @@
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
 * [双十一是线上的剁手，双十二是线下的狂欢](http://yonglun.shop/articles/2018/12/13/1558761223533.html)
 * [Spring管理的Bean的生命周期](http://yonglun.shop/articles/2016/05/28/1558761241276.html)
-* [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
-* [剑指Offer之二十五--二叉树中和为某一值的所有路径](http://yonglun.shop/articles/2016/04/07/1558761204706.html)
-* [JVM的内存区域划分](http://yonglun.shop/articles/2016/03/19/1558761211734.html)
-* [struts2中自定义类型转换器之局部类型转换器](http://yonglun.shop/articles/2016/05/28/1558761220065.html)
 * [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 * [最新三款社交产品的亲身体验：一款有意思，一款不会用，一款能赚钱](http://yonglun.shop/articles/2019/01/16/1558761234616.html)
+* [使用Spring的注解方式实现AOP入门](http://yonglun.shop/articles/2016/06/05/1558761241580.html)
+* [事务隔离级别](http://yonglun.shop/articles/2016/03/19/1558761207899.html)
+* [追女生的一些经验](http://yonglun.shop/articles/2019/01/05/1558761222138.html)
 
 ### 热议
 
@@ -61,6 +61,7 @@
 * [剑指Offer之二十七--二叉搜索树与双向链表](http://yonglun.shop/articles/2016/04/18/1558761196343.html)
 * [剑指Offer之三十--最小的K个数](http://yonglun.shop/articles/2016/04/19/1558761196865.html)
 * [剑指Offer之十八--树的子结构](http://yonglun.shop/articles/2016/03/27/1558761197438.html)
+* [剑指Offer之二十四--二叉搜索树的后序遍历序列](http://yonglun.shop/articles/2016/04/05/1558761197884.html)
 * [每K个结点反转单链表](http://yonglun.shop/articles/2016/04/06/1558761198390.html)
 * [剑指Offer之二十三--从上往下打印二叉树](http://yonglun.shop/articles/2016/04/04/1558761198832.html)
 * [剑指Offer之二十八--字符串的排列](http://yonglun.shop/articles/2016/04/18/1558761199300.html)
@@ -75,7 +76,6 @@
 * [格雷码实现](http://yonglun.shop/articles/2016/03/26/1558761202770.html)
 * [剑指Offer之十六--链表反转](http://yonglun.shop/articles/2016/03/27/1558761203190.html)
 * [剑指Offer之十五--链表中倒数第k个结点](http://yonglun.shop/articles/2016/03/27/1558761203553.html)
-* [剑指Offer之二十六--复杂链表的复制](http://yonglun.shop/articles/2016/04/07/1558761203864.html)
 
 ---
 
