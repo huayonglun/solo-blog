@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [唯一不变的是变化](http://yonglun.shop/articles/2019/11/20/1574247009659.html)
 * [爱一个不爱你的人，值得么？](http://yonglun.shop/articles/2019/10/22/1571706508321.html)
 * [偶尔写写诗，让生活多点灵性](http://yonglun.shop/articles/2019/09/22/1569145767486.html)
 * [爱与思念](http://yonglun.shop/articles/2019/09/21/1569073559797.html)
@@ -29,10 +30,10 @@
 * [正确的做事好过做正确的事](http://yonglun.shop/articles/2019/05/08/1557245550292.html)
 * [产品学习笔记二：产品的增长](http://yonglun.shop/articles/2019/05/03/1556876484193.html)
 * [蔡康永情商课笔记三：负面情绪](http://yonglun.shop/articles/2019/04/27/1556346293978.html)
-* [蔡康永情商课笔记二：自我和解](http://yonglun.shop/articles/2019/04/27/1556331162260.html)
 
 ### 热门
 
+* [蔡康永情商课笔记二：自我和解](http://yonglun.shop/articles/2019/04/27/1556331162260.html)
 * [产品学习笔记一：产品的诞生](http://yonglun.shop/articles/2019/04/26/1556243316916.html)
 * [TensorFlow 学习笔记一：初印象](http://yonglun.shop/articles/2019/04/25/1556155362539.html)
 * [三年前找工作的我，希望给正在求职的你一些启发](http://yonglun.shop/articles/2019/03/03/1558761224722.html)
@@ -52,7 +53,6 @@
 * [双十一是线上的剁手，双十二是线下的狂欢](http://yonglun.shop/articles/2018/12/13/1558761223533.html)
 * [JVM的内存区域划分](http://yonglun.shop/articles/2016/03/19/1558761211734.html)
 * [毕业 | 告白与告别](http://yonglun.shop/articles/2017/07/04/1558761222492.html)
-* [阶段 | 有些事现在不做，一辈子都不会做了](http://yonglun.shop/articles/2017/05/25/1558761227167.html)
 
 ### 热议
 
